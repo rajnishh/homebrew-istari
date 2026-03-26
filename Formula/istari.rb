@@ -7,7 +7,7 @@ class Istari < Formula
     on_macos do                             
       if Hardware::CPU.arm?
         url "https://github.com/rajnishh/istari-releases/releases/download/v0.0.1/ist-darwin-arm64.tar.gz"
-        sha256 "2014704abd6246cf9f14798becd573950fa8ce2f917ed0c768942dce22c66781"                                                                                                                              
+        sha256 "de70a490bfb6ad44f66aa6109ddd30a7b05357431497004c3a80de75bc36035a"                                                                                                                              
       end                                                                                                                                                                                                      
     end                                                                                                                                                                                                        
                                                                                                                                                                                                                
